@@ -1,6 +1,6 @@
 <section class="footer">
     <div class="rrss flexcentercolumn">
-        <p class="textcenter">Visita mis redes sociales</p>
+        <h3 class="textcenter">Visita mis redes sociales</h3>
         <div class="irrss">
             <a href="http://www.facebook.com/cristina.oreja.56/">
             <i class="fab fa-facebook-square fa-3x"></i>
