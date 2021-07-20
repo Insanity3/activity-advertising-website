@@ -8,6 +8,7 @@
     <!-- FontAwesome -->
     <link rel="stylesheet" href="Front/Public/Plugins/fontawesome5/css/all.css">
     <!-- Estilos -->
+    <link rel="stylesheet" href="Front/Public/Css/reset.css">
     <link rel="stylesheet" href="Front/Public/Css/estilos.css">
     <!-- Fuentes -->
 </head>
