@@ -22,6 +22,7 @@
     <main>
         <?php
         //Incluimos todas las secciones de la web
+        include 'Front/Views/Sections/contacto.php';
         ?>
     </main>
     <footer>
