@@ -23,6 +23,7 @@
         <?php
         //Incluimos todas las secciones de la web
         include 'Front/Views/Sections/cabecera.php';
+        include 'Front/Views/Sections/cards.php';
         include 'Front/Views/Sections/contacto.php';
         ?>
     </main>
