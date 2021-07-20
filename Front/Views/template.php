@@ -33,6 +33,5 @@
     </footer>
     
     <!-- Scripts -->
-
 </body>
 </html>
