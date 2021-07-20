@@ -15,6 +15,7 @@
     <header>
         <?php
         //Incluimos el header
+        include 'Front/Views/Components/header.php';
         ?>
     </header>
     <main>
@@ -25,6 +26,7 @@
     <footer>
         <?php
         //Incluimos el footer
+        include 'Front/Views/Components/footer.php';
         ?>
     </footer>
     
