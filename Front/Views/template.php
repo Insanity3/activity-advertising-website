@@ -28,6 +28,7 @@
         include 'Front/Views/Sections/cabecera.php';
         include 'Front/Views/Sections/cards.php';
         include 'Front/Views/Sections/qr.php';
+        include 'Front/Views/Sections/ecommerce.php';
         include 'Front/Views/Sections/contacto.php';
         ?>
     </main>
