@@ -1,7 +1,7 @@
 <section class="cabecera">
     <div class="containerduo">
         <div class="flexcentercolumn duo">
-            <h1>DESARROLLO WEB PROFESIONAL</h1>
+            <h1 class="textcenter">DESARROLLO WEB PROFESIONAL</h1>
             <h2>InsanityDev tiene todo lo que necesitas a precios asequibles</h2>
             <ul>
                 <li><i class="fas fa-check fa-1x"></i>Diseños personalizados</li>
