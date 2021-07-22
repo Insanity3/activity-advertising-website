@@ -40,5 +40,6 @@
     </footer>
     
     <!-- Scripts -->
+    <script src="Front/Public/JS/slider.js"></script>
 </body>
 </html>
