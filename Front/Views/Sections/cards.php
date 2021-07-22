@@ -4,7 +4,7 @@
     </div>
 
 <div class="cards">
-<a href="">
+<a href="#qr">
         <div class="flexcentercolumn card">
             <div class="flexcentercolumn duovertical">
                 <i class="fas fa-qrcode fa-8x"></i>
@@ -22,7 +22,7 @@
     </a>
 
 
-    <a href="">
+    <a href="#ecommerce">
         <div class="flexcentercolumn card">
             <div class="flexcentercolumn duovertical">
             <i class="fas fa-shopping-cart fa-8x"></i>
@@ -40,7 +40,7 @@
     </a>
 
 
-    <a href="">
+    <a href="#renovacion">
         <div class="flexcentercolumn card">
             <div class="flexcentercolumn duovertical">
             <i class="fas fa-magic fa-8x"></i>
@@ -58,7 +58,7 @@
     </a>
 
 
-    <a href="">
+    <a href="#new">
         <div class="flexcentercolumn card">
             <div class="flexcentercolumn duovertical">
             <i class="fas fa-palette fa-8x"></i>
