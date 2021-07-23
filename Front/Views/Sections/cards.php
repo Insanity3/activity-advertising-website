@@ -25,7 +25,7 @@
     <a href="#ecommerce">
         <div class="flexcentercolumn card">
             <div class="flexcentercolumn duovertical">
-            <i class="fas fa-shopping-cart fa-8x"></i>
+            <i class="fas fa-euro-sign fa-8x"></i>
             </div>
             <div class="flexcentercolumn duovertical">
                 <div class="flexcentercolumn duovertical">
