@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="¿Necesitas una web profesional? ¿A bajo coste? ¡Entra ya y descúbrenos!">
     <title>InsanityDev Desarrollo Web Profesional</title>
     <!-- FontAwesome -->
     <link rel="stylesheet" href="Front/Public/Plugins/fontawesome5/css/all.css">
@@ -31,6 +32,7 @@
         include 'Front/Views/Sections/ecommerce.php';
         include 'Front/Views/Sections/renovacion.php';
         include 'Front/Views/Sections/nuevaweb.php';
+        include 'Front/Views/Sections/seo.php';
         include 'Front/Views/Sections/contacto.php';
         ?>
     </main>
