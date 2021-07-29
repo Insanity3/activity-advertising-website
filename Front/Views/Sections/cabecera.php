@@ -1,4 +1,5 @@
 <section class="cabecera">
+<a href="#" name="inicio"></a>
     <div class="containerduo">
         <div class="flexcentercolumn duo">
             <h1 class="textcenter">DESARROLLO WEB PROFESIONAL</h1>
@@ -13,7 +14,7 @@
 
         </div>
         <div class="flexcentercolumn duo">
-            <img src="Front/Public/Img/pcwoman.png" alt="mujer trabajadora" class="imgduo">
+            <img src="Front/Public/Img/pcwoman.png" alt="mujer trabajadora" class="imgduo mujer">
         </div>
     </div>
 </section>

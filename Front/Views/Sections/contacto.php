@@ -1,7 +1,8 @@
+<a name="contacto"></a>
 <section class="contacto">
     <div class="flexcentercolumn">
-        <h3>¿Quieres consultar tu presupuesto?</h3>
-        <p>Rellena este formulario detallando cómo quieres que sea tu web</p>
+        <h3 class="textcenter">¿Quieres consultar tu presupuesto?</h3>
+        <p class="textcenter">Rellena este formulario detallando cómo quieres que sea tu web</p>
     </div>
     <div class="form flexcentercolumn">
         <form action="<?=$_SERVER['PHP_SELF'];?>" method="post" class="flexcentercolumn">
