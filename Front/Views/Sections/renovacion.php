@@ -3,7 +3,7 @@
     <div class="container">
         <div class="containerduo">
             <div class="flexcentercolumn duo back">
-                    <h2>Renovación</h2>
+                    <h2>Renovación web</h2>
                     <i class="fas fa-magic fa-8x imovil"></i>
                     <h3 class="textcenter">¿Tu web se ha quedado anticuada?</h3>
                     <h4>Te ofrecemos:</h4>
